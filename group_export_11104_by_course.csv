@@ -1,0 +1,152 @@
+FirstName,LastName,Email,Username,Teams,JoinedGroup,LeftGroup,CourseName,Technology,StartedCourse,FinishedCourse,LastVistedCourse,CompletedCourseExercises,CourseCompletionRate,CourseStatus,TotalCourseXPEarned,TotalCourseXPAvailable,XPScore
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Introduction to Python,Python,08/24/2017,NA,08/24/2017,2,0.04,In Progress,150,4700,0.03
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Case Studies in Statistical Thinking,Python,10/24/2017,NA,10/24/2017,1,0.02,In Progress,50,4850,0.01
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Tidy Data in Python Mini-Course,NA,11/07/2018,NA,11/07/2018,1,0.17,In Progress,50,500,0.1
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Introduction to PySpark,Python,11/08/2018,NA,11/08/2018,2,0.04,In Progress,100,3900,0.03
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Joining Data in SQL,SQL,11/12/2018,11/19/2018,11/19/2018,53,1.0,Completed,3977,4400,0.9
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Fraud Detection in Python,Python,12/04/2018,NA,12/04/2018,2,0.04,In Progress,150,4800,0.03
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Intermediate SQL Server,SQL,01/16/2019,03/18/2019,03/18/2019,47,1.0,Completed,3850,3850,1.0
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Introduction to Time Series Analysis in Python,Python,01/20/2019,01/22/2019,01/21/2019,59,1.0,Completed,4750,4850,0.98
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Machine Learning for Time Series Data in Python,Python,01/22/2019,NA,01/22/2019,21,0.4,In Progress,1750,4550,0.38
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Network Analysis in Python (Part 1),Python,01/26/2019,NA,01/26/2019,18,0.36,In Progress,1270,4100,0.31
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Web Scraping in Python,Python,01/26/2019,NA,01/26/2019,1,0.02,In Progress,50,4500,0.01
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Statistical Thinking in Python (Part 1),Python,02/03/2019,NA,02/03/2019,4,0.07,In Progress,200,4550,0.04
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Customer Segmentation in Python,Python,02/04/2019,NA,02/04/2019,8,0.15,In Progress,550,4400,0.13
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,Intermediate SQL,SQL,02/18/2019,NA,02/18/2019,1,0.02,In Progress,100,4650,0.02
+Oleg,Nagornyy,onagorny@hse.ru,iHun,NA,11/10/2018,NA,SQL for Exploratory Data Analysis,SQL,03/14/2019,NA,03/14/2019,9,0.16,In Progress,700,4800,0.15
+Alfia,Marvelous,alyalfiya@gmail.com,alyalfiya,NA,11/13/2018,NA,Introduction to Python,Python,07/14/2018,NA,07/14/2018,13,0.23,In Progress,1050,4700,0.22
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,09/24/2018,02/19/2019,02/01/2019,61,1.0,Completed,4550,4550,1.0
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Introduction to Python,Python,09/24/2018,09/25/2018,09/25/2018,57,1.0,Completed,4700,4700,1.0
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,11/23/2018,12/05/2018,12/05/2018,87,1.0,Completed,7400,7400,1.0
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Network Analysis in Python (Part 1),Python,12/05/2018,12/11/2018,12/11/2018,50,1.0,Completed,4000,4100,0.98
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Unsupervised Learning in Python,Python,12/29/2018,02/25/2019,02/25/2019,52,1.0,Completed,4150,4150,1.0
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Machine Learning for Time Series Data in Python,Python,02/01/2019,02/13/2019,02/13/2019,53,1.0,Completed,4254,4550,0.93
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Analyzing Social Media Data in Python,Python,02/25/2019,NA,02/25/2019,13,0.25,In Progress,950,4000,0.24
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Statistical Thinking in Python (Part 2),Python,02/25/2019,02/28/2019,02/28/2019,66,1.0,Completed,5350,5350,1.0
+Liaisan,Sanzhapova,lmsanzhapova@edu.hse.ru,lmsanzhapova,NA,11/19/2018,NA,Factor Analysis in R,R,02/28/2019,02/28/2019,02/28/2019,45,1.0,Completed,3576,3600,0.99
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Introduction to Python,Python,09/23/2018,NA,01/22/2019,45,0.79,In Progress,3600,4700,0.77
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,09/24/2018,01/22/2019,01/22/2019,87,1.0,Completed,7400,7400,1.0
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Supervised Learning with scikit-learn,Python,10/10/2018,NA,10/10/2018,7,0.13,In Progress,400,4200,0.1
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Analyzing Social Media Data in Python,Python,11/23/2018,NA,11/23/2018,43,0.84,In Progress,3350,4000,0.84
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Natural Language Processing Fundamentals in Python,Python,11/25/2018,02/28/2019,11/25/2018,51,1.0,Completed,3750,3750,1.0
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,01/23/2019,02/19/2019,01/23/2019,61,1.0,Completed,4550,4550,1.0
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Unsupervised Learning in Python,Python,02/28/2019,02/28/2019,02/28/2019,52,1.0,Completed,4150,4150,1.0
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Statistical Thinking in Python (Part 2),Python,02/28/2019,02/28/2019,02/28/2019,66,1.0,Completed,5350,5350,1.0
+Daria,Kiriagina,dakiryagina@edu.hse.ru,dakiryagina,NA,11/19/2018,NA,Intro to SQL for Data Science,SQL,03/17/2019,NA,03/17/2019,5,0.12,In Progress,350,3450,0.1
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Introduction to Python,Python,09/23/2018,09/30/2018,09/26/2018,57,1.0,Completed,4700,4700,1.0
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,10/02/2018,02/04/2019,01/10/2019,87,1.0,Completed,7340,7400,0.99
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Introduction to PySpark,Python,10/29/2018,01/25/2019,01/25/2019,46,1.0,Completed,3470,3900,0.89
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Intro to SQL for Data Science,SQL,10/30/2018,01/25/2019,01/25/2019,41,1.0,Completed,3441,3450,1.0
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Merging DataFrames with pandas,Python,01/20/2019,NA,02/23/2019,21,0.38,In Progress,1520,4650,0.33
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,pandas Foundations,Python,01/29/2019,02/10/2019,02/10/2019,62,1.0,Completed,4656,5150,0.9
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,02/04/2019,02/06/2019,02/06/2019,61,1.0,Completed,4420,4550,0.97
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Statistical Thinking in Python (Part 2),Python,02/06/2019,02/28/2019,02/28/2019,66,1.0,Completed,5320,5350,0.99
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Unsupervised Learning in Python,Python,02/28/2019,02/28/2019,02/28/2019,52,1.0,Completed,4150,4150,1.0
+Mariia,Galukhina,magalukhina@edu.hse.ru,magalukhina,NA,11/19/2018,NA,Natural Language Processing Fundamentals in Python,Python,02/28/2019,02/28/2019,02/28/2019,51,1.0,Completed,3750,3750,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Introduction to Python,Python,09/24/2018,09/26/2018,09/26/2018,57,1.0,Completed,4700,4700,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,10/03/2018,10/28/2018,10/26/2018,87,1.0,Completed,7400,7400,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Python Data Science Toolbox (Part 1),Python,10/28/2018,10/31/2018,10/29/2018,46,1.0,Completed,3650,3650,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Intro to SQL for Data Science,SQL,10/31/2018,11/01/2018,10/31/2018,41,1.0,Completed,3450,3450,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Python Data Science Toolbox (Part 2),Python,11/03/2018,11/03/2018,11/03/2018,46,1.0,Completed,3800,3800,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Importing Data in Python (Part 1),Python,11/04/2018,11/06/2018,11/06/2018,54,1.0,Completed,4150,4150,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Importing Data in Python (Part 2),Python,11/06/2018,11/06/2018,11/06/2018,29,1.0,Completed,2400,2400,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Cleaning Data in Python,Python,11/06/2018,NA,11/06/2018,21,0.36,In Progress,1700,4800,0.35
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Unsupervised Learning in Python,Python,12/04/2018,12/04/2018,12/04/2018,52,1.0,Completed,4150,4150,1.0
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Natural Language Processing Fundamentals in Python,Python,02/07/2019,NA,02/07/2019,2,0.04,In Progress,100,3750,0.03
+Aleksandr,Drozdov,avdrozdov@edu.hse.ru,avdrozdov,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,03/01/2019,03/01/2019,03/01/2019,61,1.0,Completed,4550,4550,1.0
+Sergei,Gurianov,ssguryanov@edu.hse.ru,ssguryanov,NA,11/19/2018,NA,Natural Language Processing Fundamentals in Python,Python,01/17/2019,02/01/2019,02/01/2019,51,1.0,Completed,3750,3750,1.0
+Sergei,Gurianov,ssguryanov@edu.hse.ru,ssguryanov,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,01/17/2019,02/12/2019,02/12/2019,87,1.0,Completed,7400,7400,1.0
+Sergei,Gurianov,ssguryanov@edu.hse.ru,ssguryanov,NA,11/19/2018,NA,Introduction to PySpark,Python,02/10/2019,02/10/2019,02/10/2019,46,1.0,Completed,3900,3900,1.0
+Sergei,Gurianov,ssguryanov@edu.hse.ru,ssguryanov,NA,11/19/2018,NA,Big Data Fundamentals via PySpark,Python,02/11/2019,02/11/2019,02/11/2019,55,1.0,Completed,4600,4600,1.0
+Sergei,Gurianov,ssguryanov@edu.hse.ru,ssguryanov,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,02/27/2019,02/27/2019,02/27/2019,61,1.0,Completed,4550,4550,1.0
+Sergei,Gurianov,ssguryanov@edu.hse.ru,ssguryanov,NA,11/19/2018,NA,Statistical Thinking in Python (Part 2),Python,02/28/2019,03/01/2019,03/01/2019,66,1.0,Completed,5350,5350,1.0
+Anatolii,Shelikhovskii,aashelikhovskiy@edu.hse.ru,aashelikhovskiy,NA,11/19/2018,NA,Introduction to Python,Python,10/10/2018,NA,10/10/2018,49,0.86,In Progress,3950,4700,0.84
+Anatolii,Shelikhovskii,aashelikhovskiy@edu.hse.ru,aashelikhovskiy,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,12/04/2018,12/04/2018,12/04/2018,87,1.0,Completed,7400,7400,1.0
+Anatolii,Shelikhovskii,aashelikhovskiy@edu.hse.ru,aashelikhovskiy,NA,11/19/2018,NA,Unsupervised Learning in Python,Python,12/08/2018,12/10/2018,12/10/2018,52,1.0,Completed,4150,4150,1.0
+Anatolii,Shelikhovskii,aashelikhovskiy@edu.hse.ru,aashelikhovskiy,NA,11/19/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/13/2018,12/13/2018,12/13/2018,51,1.0,Completed,3750,3750,1.0
+Anatolii,Shelikhovskii,aashelikhovskiy@edu.hse.ru,aashelikhovskiy,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,02/15/2019,02/15/2019,02/15/2019,61,1.0,Completed,4550,4550,1.0
+Anatolii,Shelikhovskii,aashelikhovskiy@edu.hse.ru,aashelikhovskiy,NA,11/19/2018,NA,Statistical Thinking in Python (Part 2),Python,02/15/2019,02/15/2019,02/15/2019,66,1.0,Completed,5350,5350,1.0
+Danil,Kusakin,dnkusakin@edu.hse.ru,dnkusakin,NA,11/19/2018,NA,Intermediate Python for Data Science,Python,12/05/2018,01/13/2019,01/13/2019,87,1.0,Completed,7400,7400,1.0
+Danil,Kusakin,dnkusakin@edu.hse.ru,dnkusakin,NA,11/19/2018,NA,Unsupervised Learning in Python,Python,12/15/2018,12/19/2018,12/15/2018,52,1.0,Completed,4150,4150,1.0
+Danil,Kusakin,dnkusakin@edu.hse.ru,dnkusakin,NA,11/19/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/20/2018,12/20/2018,12/20/2018,51,1.0,Completed,3750,3750,1.0
+Danil,Kusakin,dnkusakin@edu.hse.ru,dnkusakin,NA,11/19/2018,NA,Statistical Thinking in Python (Part 1),Python,02/12/2019,02/13/2019,02/12/2019,61,1.0,Completed,4550,4550,1.0
+Danil,Kusakin,dnkusakin@edu.hse.ru,dnkusakin,NA,11/19/2018,NA,Statistical Thinking in Python (Part 2),Python,02/17/2019,02/17/2019,02/17/2019,66,1.0,Completed,5350,5350,1.0
+Danil,Kusakin,dnkusakin@edu.hse.ru,dnkusakin,NA,11/19/2018,NA,Fraud Detection in Python,Python,03/16/2019,03/16/2019,03/16/2019,57,1.0,Completed,4800,4800,1.0
+Dmitrii,Fursov,dtfursov@edu.hse.ru,dtfursov,NA,11/21/2018,NA,Intermediate Python for Data Science,Python,02/28/2019,02/28/2019,02/28/2019,87,1.0,Completed,7370,7400,1.0
+Dmitrii,Fursov,dtfursov@edu.hse.ru,dtfursov,NA,11/21/2018,NA,Unsupervised Learning in Python,Python,02/28/2019,03/01/2019,02/28/2019,52,1.0,Completed,4150,4150,1.0
+Dmitrii,Fursov,dtfursov@edu.hse.ru,dtfursov,NA,11/21/2018,NA,Natural Language Processing Fundamentals in Python,Python,03/01/2019,03/01/2019,03/01/2019,51,1.0,Completed,3750,3750,1.0
+Dmitrii,Fursov,dtfursov@edu.hse.ru,dtfursov,NA,11/21/2018,NA,Statistical Thinking in Python (Part 1),Python,03/01/2019,03/01/2019,03/01/2019,61,1.0,Completed,4550,4550,1.0
+Dmitrii,Fursov,dtfursov@edu.hse.ru,dtfursov,NA,11/21/2018,NA,Machine Learning for Time Series Data in Python,Python,03/01/2019,03/01/2019,03/01/2019,53,1.0,Completed,4232,4550,0.93
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Introduction to Python,Python,11/22/2018,02/18/2019,01/27/2019,57,1.0,Completed,4700,4700,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Intermediate Python for Data Science,Python,12/04/2018,12/04/2018,12/04/2018,87,1.0,Completed,7400,7400,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Unsupervised Learning in Python,Python,12/04/2018,12/06/2018,12/04/2018,52,1.0,Completed,4150,4150,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Network Analysis in Python (Part 1),Python,12/05/2018,01/06/2019,01/04/2019,50,1.0,Completed,4000,4100,0.98
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/06/2018,12/10/2018,12/06/2018,51,1.0,Completed,3650,3750,0.97
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Network Analysis in Python (Part 2),Python,01/06/2019,02/10/2019,01/07/2019,46,1.0,Completed,3900,3900,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Statistical Thinking in Python (Part 1),Python,01/18/2019,01/18/2019,01/18/2019,61,1.0,Completed,4550,4550,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Statistical Thinking in Python (Part 2),Python,01/20/2019,02/04/2019,01/20/2019,66,1.0,Completed,5350,5350,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Intro to Financial Concepts using Python,Python,01/22/2019,02/02/2019,01/22/2019,52,1.0,Completed,4300,4300,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Analyzing Social Media Data in Python,Python,02/05/2019,02/10/2019,02/05/2019,51,1.0,Completed,4000,4000,1.0
+Mark,Kan,mvkan_1@edu.hse.ru,mvkan1,NA,11/26/2018,NA,Linear Classifiers in Python,Python,02/11/2019,NA,02/19/2019,18,0.41,In Progress,1200,3200,0.38
+Ekaterina,Antonova,eaantonova_4@edu.hse.ru,eaantonova4,NA,11/26/2018,NA,Intermediate Python for Data Science,Python,12/05/2018,02/12/2019,01/28/2019,87,1.0,Completed,7400,7400,1.0
+Ekaterina,Antonova,eaantonova_4@edu.hse.ru,eaantonova4,NA,11/26/2018,NA,Natural Language Processing Fundamentals in Python,Python,01/16/2019,02/28/2019,02/28/2019,51,1.0,Completed,3750,3750,1.0
+Ekaterina,Antonova,eaantonova_4@edu.hse.ru,eaantonova4,NA,11/26/2018,NA,Statistical Thinking in Python (Part 1),Python,02/12/2019,02/28/2019,02/21/2019,61,1.0,Completed,4450,4550,0.98
+Ekaterina,Antonova,eaantonova_4@edu.hse.ru,eaantonova4,NA,11/26/2018,NA,Biomedical Image Analysis in Python,Python,02/19/2019,02/21/2019,02/19/2019,54,1.0,Completed,4266,4400,0.97
+Ekaterina,Antonova,eaantonova_4@edu.hse.ru,eaantonova4,NA,11/26/2018,NA,Statistical Thinking in Python (Part 2),Python,02/28/2019,02/28/2019,02/28/2019,66,1.0,Completed,5350,5350,1.0
+Ekaterina,Antonova,eaantonova_4@edu.hse.ru,eaantonova4,NA,11/26/2018,NA,Unsupervised Learning in Python,Python,02/28/2019,02/28/2019,02/28/2019,52,1.0,Completed,4150,4150,1.0
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Introduction to Shell for Data Science,Shell,01/04/2019,NA,01/04/2019,4,0.07,In Progress,180,2850,0.06
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Visualizing Geospatial Data in Python,Python,01/04/2019,02/15/2019,01/29/2019,51,1.0,Completed,4250,4250,1.0
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Parallel Computing with Dask,Python,01/05/2019,NA,01/05/2019,1,0.02,In Progress,50,4650,0.01
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Introduction to Databases in Python,Python,02/07/2019,02/28/2019,02/28/2019,66,1.0,Completed,5420,5550,0.98
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Machine Learning for Time Series Data in Python,Python,02/17/2019,02/28/2019,02/28/2019,53,1.0,Completed,4528,4550,1.0
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Natural Language Processing Fundamentals in Python,Python,02/28/2019,03/01/2019,02/28/2019,51,1.0,Completed,3650,3750,0.97
+Vsevolod,Gusev,vvgusev@edu.hse.ru,vvgusev,NA,11/27/2018,NA,Statistical Thinking in Python (Part 1),Python,02/28/2019,03/01/2019,03/01/2019,61,1.0,Completed,4550,4550,1.0
+Ivan,Mishalkin,iamishalkin@edu.hse.ru,iamishalkin,NA,12/03/2018,NA,Intermediate Python for Data Science,Python,12/04/2018,01/18/2019,12/04/2018,87,1.0,Completed,7300,7400,0.99
+Ivan,Mishalkin,iamishalkin@edu.hse.ru,iamishalkin,NA,12/03/2018,NA,Unsupervised Learning in Python,Python,12/04/2018,02/17/2019,12/04/2018,52,1.0,Completed,4150,4150,1.0
+Ivan,Mishalkin,iamishalkin@edu.hse.ru,iamishalkin,NA,12/03/2018,NA,Statistical Thinking in Python (Part 1),Python,02/19/2019,NA,02/19/2019,11,0.18,In Progress,750,4550,0.16
+Ivan,Mishalkin,iamishalkin@edu.hse.ru,iamishalkin,NA,12/03/2018,NA,Linear Classifiers in Python,Python,02/19/2019,02/19/2019,02/19/2019,44,1.0,Completed,3000,3200,0.94
+Ivan,Mishalkin,iamishalkin@edu.hse.ru,iamishalkin,NA,12/03/2018,NA,Machine Learning for Time Series Data in Python,Python,02/19/2019,02/20/2019,02/19/2019,53,1.0,Completed,4404,4550,0.97
+Ivan,Mishalkin,iamishalkin@edu.hse.ru,iamishalkin,NA,12/03/2018,NA,Natural Language Processing Fundamentals in Python,Python,02/26/2019,02/28/2019,02/26/2019,51,1.0,Completed,3490,3750,0.93
+Viktor,Sarzhan,vasarzhan@edu.hse.ru,vasarzhan,NA,12/11/2018,NA,Intermediate Python for Data Science,Python,02/28/2019,02/28/2019,02/28/2019,87,1.0,Completed,7400,7400,1.0
+Viktor,Sarzhan,vasarzhan@edu.hse.ru,vasarzhan,NA,12/11/2018,NA,Linear Classifiers in Python,Python,02/28/2019,03/01/2019,02/28/2019,44,1.0,Completed,3200,3200,1.0
+Viktor,Sarzhan,vasarzhan@edu.hse.ru,vasarzhan,NA,12/11/2018,NA,Unsupervised Learning in Python,Python,03/01/2019,03/01/2019,03/01/2019,52,1.0,Completed,4150,4150,1.0
+Viktor,Sarzhan,vasarzhan@edu.hse.ru,vasarzhan,NA,12/11/2018,NA,Network Analysis in Python (Part 1),Python,03/01/2019,NA,03/01/2019,2,0.04,In Progress,100,4100,0.02
+Viktor,Sarzhan,vasarzhan@edu.hse.ru,vasarzhan,NA,12/11/2018,NA,Statistical Thinking in Python (Part 1),Python,03/01/2019,03/01/2019,03/01/2019,61,1.0,Completed,4550,4550,1.0
+Viktor,Sarzhan,vasarzhan@edu.hse.ru,vasarzhan,NA,12/11/2018,NA,Statistical Thinking in Python (Part 2),Python,03/01/2019,NA,03/01/2019,58,0.88,In Progress,4550,5350,0.85
+Anna,Golovchenko,aagolovchenko@edu.hse.ru,aagolovchenko,NA,12/04/2018,NA,Intermediate Python for Data Science,Python,12/08/2018,12/08/2018,12/08/2018,87,1.0,Completed,7300,7400,0.99
+Anna,Golovchenko,aagolovchenko@edu.hse.ru,aagolovchenko,NA,12/04/2018,NA,Unsupervised Learning in Python,Python,12/08/2018,02/27/2019,02/21/2019,52,1.0,Completed,4150,4150,1.0
+Anna,Golovchenko,aagolovchenko@edu.hse.ru,aagolovchenko,NA,12/04/2018,NA,Visualizing Geospatial Data in Python,Python,02/10/2019,02/10/2019,02/10/2019,51,1.0,Completed,4250,4250,1.0
+Anna,Golovchenko,aagolovchenko@edu.hse.ru,aagolovchenko,NA,12/04/2018,NA,Statistical Thinking in Python (Part 1),Python,02/27/2019,02/27/2019,02/27/2019,61,1.0,Completed,4550,4550,1.0
+Anna,Golovchenko,aagolovchenko@edu.hse.ru,aagolovchenko,NA,12/04/2018,NA,Statistical Thinking in Python (Part 2),Python,02/27/2019,02/27/2019,02/27/2019,66,1.0,Completed,5350,5350,1.0
+Anna,Golovchenko,aagolovchenko@edu.hse.ru,aagolovchenko,NA,12/04/2018,NA,Machine Learning for Time Series Data in Python,Python,02/28/2019,NA,02/28/2019,7,0.13,In Progress,550,4550,0.12
+Anna,Anisimova,amanisimova_1@edu.hse.ru,amanisimova1,NA,12/04/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/04/2018,02/05/2019,01/30/2019,51,1.0,Completed,3750,3750,1.0
+Anna,Anisimova,amanisimova_1@edu.hse.ru,amanisimova1,NA,12/04/2018,NA,Advanced NLP with spaCy,Python,02/08/2019,02/18/2019,02/16/2019,55,1.0,Completed,4370,4450,0.98
+Anna,Anisimova,amanisimova_1@edu.hse.ru,amanisimova1,NA,12/04/2018,NA,Deep Learning in Python,Python,02/25/2019,03/01/2019,02/25/2019,50,1.0,Completed,3500,3500,1.0
+Anna,Anisimova,amanisimova_1@edu.hse.ru,amanisimova1,NA,12/04/2018,NA,Improving Your Data Visualizations in Python,Python,03/01/2019,03/01/2019,03/01/2019,54,1.0,Completed,4620,4650,0.99
+Anna,Anisimova,amanisimova_1@edu.hse.ru,amanisimova1,NA,12/04/2018,NA,Advanced Deep Learning with Keras in Python,Python,03/01/2019,03/01/2019,03/01/2019,46,1.0,Completed,3950,3950,1.0
+Anna,Anisimova,amanisimova_1@edu.hse.ru,amanisimova1,NA,12/04/2018,NA,Intermediate Python for Data Science,Python,03/16/2019,03/17/2019,03/16/2019,87,1.0,Completed,7065,7400,0.95
+Olga,Morozova,oomorozova@edu.hse.ru,oomorozova,NA,12/07/2018,NA,Intermediate Python for Data Science,Python,12/08/2018,01/24/2019,12/08/2018,87,1.0,Completed,7400,7400,1.0
+Olga,Morozova,oomorozova@edu.hse.ru,oomorozova,NA,12/07/2018,NA,Unsupervised Learning in Python,Python,12/08/2018,01/10/2019,12/08/2018,52,1.0,Completed,4150,4150,1.0
+Olga,Morozova,oomorozova@edu.hse.ru,oomorozova,NA,12/07/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/13/2018,02/28/2019,12/13/2018,51,1.0,Completed,3750,3750,1.0
+Olga,Morozova,oomorozova@edu.hse.ru,oomorozova,NA,12/07/2018,NA,Statistical Thinking in Python (Part 1),Python,01/24/2019,02/28/2019,01/24/2019,61,1.0,Completed,4550,4550,1.0
+Olga,Morozova,oomorozova@edu.hse.ru,oomorozova,NA,12/07/2018,NA,Statistical Thinking in Python (Part 2),Python,03/01/2019,03/01/2019,03/01/2019,66,1.0,Completed,5350,5350,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Intermediate Python for Data Science,Python,12/07/2018,12/09/2018,12/09/2018,87,1.0,Completed,7400,7400,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Unsupervised Learning in Python,Python,12/07/2018,12/17/2018,12/17/2018,52,1.0,Completed,4150,4150,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/17/2018,12/24/2018,12/24/2018,51,1.0,Completed,3750,3750,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Network Analysis in Python (Part 1),Python,01/07/2019,NA,01/07/2019,2,0.04,In Progress,100,4100,0.02
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Merging DataFrames with pandas,Python,01/08/2019,NA,01/09/2019,47,0.84,In Progress,3800,4650,0.82
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Feature Engineering with PySpark,Python,01/09/2019,NA,03/16/2019,11,0.18,In Progress,800,5000,0.16
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Introduction to R,R,01/14/2019,01/14/2019,01/14/2019,62,1.0,Completed,6200,6200,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Intermediate R,R,01/14/2019,NA,01/15/2019,78,0.96,In Progress,6650,6950,0.96
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Linear Classifiers in Python,Python,01/30/2019,01/30/2019,01/30/2019,44,1.0,Completed,3200,3200,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Statistical Thinking in Python (Part 1),Python,02/03/2019,02/26/2019,02/25/2019,61,1.0,Completed,4550,4550,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Statistical Thinking in Python (Part 2),Python,02/26/2019,02/27/2019,02/26/2019,66,1.0,Completed,5350,5350,1.0
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Machine Learning for Time Series Data in Python,Python,02/27/2019,NA,03/01/2019,12,0.23,In Progress,850,4550,0.19
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Visualizing Time Series Data in Python,Python,02/27/2019,NA,02/27/2019,5,0.08,In Progress,450,4850,0.09
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Analyzing Social Media Data in Python,Python,02/27/2019,03/01/2019,02/28/2019,51,1.0,Completed,3970,4000,0.99
+xu,haoyang,khsyuy@edu.hse.ru,khsyuy,NA,12/05/2018,NA,Cleaning Data in Python,Python,03/14/2019,NA,03/14/2019,22,0.38,In Progress,1700,4800,0.35
+Anna,Lyusina,aalyusina@edu.hse.ru,aalyusina,NA,12/06/2018,NA,Unsupervised Learning in Python,Python,12/23/2018,12/23/2018,12/23/2018,52,1.0,Completed,4150,4150,1.0
+Anna,Lyusina,aalyusina@edu.hse.ru,aalyusina,NA,12/06/2018,NA,Natural Language Processing Fundamentals in Python,Python,12/23/2018,12/23/2018,12/23/2018,51,1.0,Completed,3750,3750,1.0
+Anna,Lyusina,aalyusina@edu.hse.ru,aalyusina,NA,12/06/2018,NA,Intermediate Python for Data Science,Python,01/13/2019,01/13/2019,01/13/2019,87,1.0,Completed,7400,7400,1.0
+Anna,Lyusina,aalyusina@edu.hse.ru,aalyusina,NA,12/06/2018,NA,Statistical Thinking in Python (Part 1),Python,02/12/2019,02/13/2019,02/12/2019,61,1.0,Completed,4550,4550,1.0
+Anna,Lyusina,aalyusina@edu.hse.ru,aalyusina,NA,12/06/2018,NA,Statistical Thinking in Python (Part 2),Python,02/17/2019,02/17/2019,02/17/2019,66,1.0,Completed,5350,5350,1.0
